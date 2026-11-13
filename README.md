@@ -61,4 +61,4 @@ in the picker).
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT. Full text in the `LICENSE` file at the root of this extension's source.
