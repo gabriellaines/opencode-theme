@@ -1,11 +1,16 @@
 {
   "name": "opencode-theme",
   "displayName": "OpenCode Peach",
-  "description": "OpenCode default dark palette",
-  "version": "0.1.0",
+  "description": "Dark theme with a peach accent, built from OpenCode's palette",
+  "version": "0.2.0",
   "publisher": "borealstars",
   "license": "MIT",
   "icon": "icon.png",
+  "keywords": ["opencode", "dark theme", "peach", "terminal", "color theme"],
+  "galleryBanner": {
+    "color": "#0a0a0a",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://borealstars.visualstudio.com/OpenCode%20Theme/_git/OpenCode%20Theme"
