@@ -2,7 +2,7 @@
   "name": "opencode-theme",
   "displayName": "OpenCode Peach",
   "description": "Dark theme with a peach accent, built from OpenCode's palette",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "publisher": "borealstars",
   "license": "MIT",
   "icon": "icon.png",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://borealstars.visualstudio.com/OpenCode%20Theme/_git/OpenCode%20Theme"
+    "url": "https://github.com/gabriellaines/opencode-theme.git"
   },
   "engines": {
     "vscode": "^1.80.0"
