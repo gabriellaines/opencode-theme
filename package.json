@@ -1,0 +1,28 @@
+{
+  "name": "opencode-theme",
+  "displayName": "OpenCode",
+  "description": "OpenCode default dark palette",
+  "version": "0.1.0",
+  "publisher": "borealstars",
+  "license": "MIT",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://borealstars.visualstudio.com/OpenCode%20Theme/_git/OpenCode%20Theme"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "OpenCode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/opencode-color-theme.json"
+      }
+    ]
+  }
+}
